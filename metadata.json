@@ -1,0 +1,7 @@
+{
+  "name": "AR Visual Roll Call",
+  "description": "A privacy-first, web-based augmented reality random picker system using face detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
